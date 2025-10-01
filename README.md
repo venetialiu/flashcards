@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="./src/assets/walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/venetialiu/flashcards/blob/main/src/assets/walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
