@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Start!",
+    "answer": "Press the next arrow to start the flashcards :)"
+  },
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "answer": "def"
+  },
+  {
+    "question": "What data type is returned by the expression: 3 / 2 ?",
+    "answer": "float"
+  },
+  {
+    "question": "Which keyword is used to create a class in Python?",
+    "answer": "class"
+  },
+  {
+    "question": "What built-in data type is an ordered, immutable sequence?",
+    "answer": "tuple"
+  },
+  {
+    "question": "What is the output of: len({'a': 1, 'b': 2}) ?",
+    "answer": "2"
+  },
+  {
+    "question": "What statement is used to handle exceptions?",
+    "answer": "try...except"
+  },
+  {
+    "question": "What keyword is used to import a module?",
+    "answer": "import"
+  },
+  {
+    "question": "What is the default value of the 'end' parameter in print()?",
+    "answer": "\\n (newline)"
+  },
+  {
+    "question": "What data type is created by wrapping values in square brackets []?",
+    "answer": "list"
+  },
+  {
+    "question": "What operator is used for floor division?",
+    "answer": "//"
+  }
+]
